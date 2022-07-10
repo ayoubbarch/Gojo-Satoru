@@ -9,7 +9,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
-global.APIs = {
+global.APIs = {code} 
 	zenz: 'https://zenzapis.xyz',
 }
 
